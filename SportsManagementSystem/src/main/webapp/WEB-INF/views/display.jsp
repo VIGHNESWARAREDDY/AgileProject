@@ -9,8 +9,8 @@
 <body>
 <center>
 <h2>Menu Page</h2>
-<a href="***">Organizer Registration</a>
-<a href="***">Organizer Login</a>
+<a href="/registration">Organizer Registration</a>
+<a href="/login">Organizer Login</a>
 <a href="***">Coach Registration</a>
 <a href="***">Coach Login</a>
 <a href="***">Sponser Registration</a>
